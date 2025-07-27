@@ -8,7 +8,7 @@ This repository contains the research work for my MSc Statistics project on **ag
 - **Submitted by**: Papu Mahanta  
 - **Course**: B.Sc. (Sem VI), Statistics  
 - **University**: Department of Statistics, Visva-Bharati University  
-- **Supervisor**: Dr. Saran Ishika Maiti
+
 
 ### 🧩 Objectives
 - Analyze trends in production and productivity of **Kharif and Rabi crops** from **1962 to 2021**
