@@ -85,7 +85,7 @@ Using **Holt-Winters**, crop production was forecasted for the years **2021 to 2
 ## 👨‍🔬 Author
 
 **Papu Mahanta**  
-📧 Email: [your.email@example.com]  
+ 
 🎓 MSc Statistics – Visva-Bharati University
 
 ---
